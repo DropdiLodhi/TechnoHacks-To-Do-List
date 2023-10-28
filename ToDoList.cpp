@@ -53,7 +53,7 @@ return 0;
 void banner(){
 	cout<<"___________________________________"<<endl;
 	cout<<"\t     WELCOME MY TODO LIST    "<<endl;
-    cout<<"___________________________________"<<endl;
+        cout<<"___________________________________"<<endl;
 }
 void addtask(){
 	system("cls");
